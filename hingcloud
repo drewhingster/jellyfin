@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html> 
+<title> Welcome to HingCloud! </title> 
+<h1> Welcome to HingCloud!</h1>
+<head> Which service would you like to access?</head>
+
+<body>
+<p><a href="https://raspberry.hingcloud.org"> 1. Jellyfin Server </a> </p>
+
+<p><a href="https://req.hingcloud.org"> 2. Jellyseerr </a></p>
+
+<p><a href="https://qbit.hingcloud.org"> 3. QBittorrent </a></p>
+</body>
+</html>
